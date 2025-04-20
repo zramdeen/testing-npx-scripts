@@ -12,6 +12,6 @@
     "ora": "^6.1.0"
   },
   "bin": {
-    "node-cli-starter": "./bin/index.js"
+    "cli": "./bin/index.js"
   }
 }
