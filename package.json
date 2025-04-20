@@ -1,0 +1,17 @@
+{
+  "name": "node-cli-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bin/index.js",
+  "type": "module",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ora": "^6.1.0"
+  },
+  "bin": {
+    "node-cli-starter": "./bin/index.js"
+  }
+}
